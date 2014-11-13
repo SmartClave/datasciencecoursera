@@ -1,3 +1,3 @@
 datasciencecoursera
 ===================
-This is just demo
+This is just a demo
